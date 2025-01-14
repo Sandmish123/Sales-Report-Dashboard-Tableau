@@ -22,9 +22,9 @@ This project was an opportunity to dive into Tableau and explore its capabilitie
 # Datasets
 
 The project utilized three datasets:
-1. Orders Dataset**: Contains details like order date, ship date, customer details, product information, and sales metrics (Sales, Quantity, Discount, Profit).
-2. Returns Dataset**: Highlights returned orders based on Order ID.
-3. People Dataset**: Maps persons to their respective regions.
+1. **Orders Dataset**: Contains details like order date, ship date, customer details, product information, and sales metrics (Sales, Quantity, Discount, Profit).
+2. **Returns Dataset**: Highlights returned orders based on Order ID.
+3. **People Dataset**: Maps persons to their respective regions.
 
 # Sample Data Columns:
 - **Orders Dataset**: `Order ID`, `Order Date`, `Sales`, `Profit`, `Category`, `Sub-Category`
